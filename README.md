@@ -13,6 +13,6 @@ $ pkg install git php python openssh -y</code>
 <pre>
 <code>$ git clone https://github.com/it4min/itClipboard <br />
 $ cd itClipboard <br />
-$ python3 mrclipboard.py</code>
+$ python3 itclipboard.py</code>
 </pre> <br />
 <a href="https://t.me/LinuxH">Telegram Channel</a>
