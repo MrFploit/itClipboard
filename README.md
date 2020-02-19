@@ -15,4 +15,4 @@ $ pkg install git php python openssh -y</code>
 $ cd itClipboard <br />
 $ python3 clipboard.py</code>
 </pre> <br />
-<a href="https://t.me/LinuxH">Telegram Channel</a>
+<a href="https://t.me/LinuxArmy">Telegram Channel</a>
