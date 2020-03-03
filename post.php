@@ -2,7 +2,7 @@
 itClipboard v1
 Code By it4min
 t.me/it4min
-t.me/LinuxH
+t.me/LinuxArmy
 -->
 <?php
 $content = trim(file_get_contents("php://input"));
