@@ -5,8 +5,8 @@ Hijacking Clipboard Data By Link
 <br />
 <h1>prerequisites</h1>
 <pre>
-<code>$ apt update -y <br />
-$ pkg install git php python openssh -y</code>
+<code>$ apt update  <br />
+$ apt install git php python openssh -y</code>
 </pre>
 <br />
 <h1>run</h1>
