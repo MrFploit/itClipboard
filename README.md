@@ -16,4 +16,10 @@ $ git clone https://github.com/it4min/itClipboard <br />
 $ cd itClipboard <br />
 $ python3 clipboard.py
 </pre></code><br />
+
+# Video Tutorial
+Youtube : https://youtu.be/iWRUVW3aG6c
+<br>
+Telegram : https://t.me/LinuxArmy/420
+
 <a href="https://t.me/LinuxArmy">Telegram Channel</a>
